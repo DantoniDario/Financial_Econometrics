@@ -1,2 +1,2 @@
 # Financial Econometrics Seminars
-Financial Econometrics at University of Geneva (using Python)
+My answers to all the seminars for Financial Econometrics course at University of Geneva (using Python)
